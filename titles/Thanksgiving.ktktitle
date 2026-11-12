@@ -1,0 +1,14 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Thanksgiving",
+ "template": "fs-thanks",
+ "fields": {
+  "label": "THANKSGIVING",
+  "title": "Thank you, Lord!",
+  "subtitle": "Psalm 100",
+  "reference": "Psalm 100:4",
+  "theme": "amber",
+  "font": "Abril Fatface"
+ }
+}

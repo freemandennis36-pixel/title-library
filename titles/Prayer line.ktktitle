@@ -1,0 +1,13 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Prayer line",
+ "template": "fs-prayer",
+ "fields": {
+  "title": "Need Prayer?",
+  "subtitle": "Our prayer team is ready",
+  "contact": "Call / WhatsApp 0800 000 0000",
+  "theme": "ocean",
+  "font": "Raleway"
+ }
+}

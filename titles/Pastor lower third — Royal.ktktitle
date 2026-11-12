@@ -1,0 +1,12 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Pastor lower third \u2014 Royal",
+ "template": "lt-royal",
+ "fields": {
+  "title": "Pastor John Doe",
+  "subtitle": "Senior Pastor",
+  "theme": "royal",
+  "font": "Montserrat"
+ }
+}

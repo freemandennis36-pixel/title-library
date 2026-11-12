@@ -1,0 +1,12 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Countdown \u2014 neon",
+ "template": "cd-digits",
+ "fields": {
+  "label": "Starting in",
+  "minutes": 5,
+  "theme": "teal",
+  "font": "Orbitron"
+ }
+}

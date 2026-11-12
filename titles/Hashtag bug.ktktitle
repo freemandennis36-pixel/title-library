@@ -1,0 +1,11 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Hashtag bug",
+ "template": "bug-hashtag",
+ "fields": {
+  "text": "#YouthNight",
+  "theme": "sunset",
+  "font": "Bangers"
+ }
+}

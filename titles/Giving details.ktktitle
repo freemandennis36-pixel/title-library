@@ -1,0 +1,15 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Giving details",
+ "template": "fs-giving",
+ "fields": {
+  "title": "Give Online",
+  "bank": "Your Bank",
+  "accName": "Your Church Name",
+  "accNo": "0000000000",
+  "note": "Thank you for your generosity",
+  "theme": "emerald",
+  "font": "Poppins"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Big title",
+ "template": "tx-title",
+ "fields": {
+  "title": "ON FIRE",
+  "subtitle": "Youth Conference 2026",
+  "theme": "crimson",
+  "font": "Anton"
+ }
+}

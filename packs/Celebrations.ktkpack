@@ -1,0 +1,60 @@
+{
+ "format": "ktk-pack",
+ "version": 1,
+ "name": "Celebrations",
+ "titles": [
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Happy Birthday",
+   "template": "fs-birthday",
+   "fields": {
+    "label": "HAPPY BIRTHDAY",
+    "title": "Sister Grace",
+    "subtitle": "Many happy returns!",
+    "theme": "rose",
+    "font": "Dancing Script"
+   }
+  },
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Wedding",
+   "template": "fs-wedding",
+   "fields": {
+    "label": "THE WEDDING OF",
+    "name1": "David",
+    "name2": "Esther",
+    "theme": "gold",
+    "font": "Script"
+   }
+  },
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Thanksgiving",
+   "template": "fs-thanks",
+   "fields": {
+    "label": "THANKSGIVING",
+    "title": "Thank you, Lord!",
+    "subtitle": "Psalm 100",
+    "reference": "Psalm 100:4",
+    "theme": "amber",
+    "font": "Abril Fatface"
+   }
+  },
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Baby dedication",
+   "template": "fs-baptism",
+   "fields": {
+    "label": "BABY DEDICATION",
+    "title": "Welcome, little one",
+    "names": "Baby Joy",
+    "theme": "teal",
+    "font": "Comfortaa"
+   }
+  }
+ ]
+}

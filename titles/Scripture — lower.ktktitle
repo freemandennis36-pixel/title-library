@@ -1,0 +1,12 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Scripture \u2014 lower",
+ "template": "sc-lower",
+ "fields": {
+  "reference": "John 3:16",
+  "text": "For God so loved the world, that he gave his only begotten Son\u2026",
+  "theme": "gold",
+  "font": "Lora"
+ }
+}

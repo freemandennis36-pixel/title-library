@@ -1,0 +1,12 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Youth lower third",
+ "template": "lt-glass",
+ "fields": {
+  "title": "Youth Night",
+  "subtitle": "Friday 6 PM",
+  "theme": "royal",
+  "font": "Bebas"
+ }
+}

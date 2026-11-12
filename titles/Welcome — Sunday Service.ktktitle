@@ -1,0 +1,13 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Welcome \u2014 Sunday Service",
+ "template": "fs-welcome",
+ "fields": {
+  "small": "WELCOME TO",
+  "title": "Sunday Celebration Service",
+  "subtitle": "We are glad you are here",
+  "theme": "gold",
+  "font": "Cinzel"
+ }
+}

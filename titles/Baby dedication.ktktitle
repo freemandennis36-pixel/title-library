@@ -1,0 +1,13 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Baby dedication",
+ "template": "fs-baptism",
+ "fields": {
+  "label": "BABY DEDICATION",
+  "title": "Welcome, little one",
+  "names": "Baby Joy",
+  "theme": "teal",
+  "font": "Comfortaa"
+ }
+}

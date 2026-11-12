@@ -1,0 +1,13 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Happy Birthday",
+ "template": "fs-birthday",
+ "fields": {
+  "label": "HAPPY BIRTHDAY",
+  "title": "Sister Grace",
+  "subtitle": "Many happy returns!",
+  "theme": "rose",
+  "font": "Dancing Script"
+ }
+}

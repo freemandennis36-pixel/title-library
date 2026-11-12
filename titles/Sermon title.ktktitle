@@ -1,0 +1,14 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Sermon title",
+ "template": "fs-sermon",
+ "fields": {
+  "series": "SERIES: FAITH THAT WORKS",
+  "title": "Walking on Water",
+  "preacher": "Pastor John Doe",
+  "reference": "Matthew 14:22-33",
+  "theme": "midnight",
+  "font": "Playfair"
+ }
+}

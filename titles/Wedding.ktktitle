@@ -1,0 +1,13 @@
+{
+ "format": "ktk-title",
+ "version": 1,
+ "name": "Wedding",
+ "template": "fs-wedding",
+ "fields": {
+  "label": "THE WEDDING OF",
+  "name1": "David",
+  "name2": "Esther",
+  "theme": "gold",
+  "font": "Script"
+ }
+}

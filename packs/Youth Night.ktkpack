@@ -1,0 +1,54 @@
+{
+ "format": "ktk-pack",
+ "version": 1,
+ "name": "Youth Night",
+ "titles": [
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Youth lower third",
+   "template": "lt-glass",
+   "fields": {
+    "title": "Youth Night",
+    "subtitle": "Friday 6 PM",
+    "theme": "royal",
+    "font": "Bebas"
+   }
+  },
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Hashtag bug",
+   "template": "bug-hashtag",
+   "fields": {
+    "text": "#YouthNight",
+    "theme": "sunset",
+    "font": "Bangers"
+   }
+  },
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Countdown \u2014 neon",
+   "template": "cd-digits",
+   "fields": {
+    "label": "Starting in",
+    "minutes": 5,
+    "theme": "teal",
+    "font": "Orbitron"
+   }
+  },
+  {
+   "format": "ktk-title",
+   "version": 1,
+   "name": "Big title",
+   "template": "tx-title",
+   "fields": {
+    "title": "ON FIRE",
+    "subtitle": "Youth Conference 2026",
+    "theme": "crimson",
+    "font": "Anton"
+   }
+  }
+ ]
+}
